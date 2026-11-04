@@ -1,0 +1,2 @@
+#define WIFI_NOME "nome_da_rede_2_4_ghz"
+#define WIFI_SENHA "senha_da_rede"

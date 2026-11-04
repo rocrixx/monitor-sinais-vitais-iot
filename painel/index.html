@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor de sinais vitais</title>
+<style>
+  :root {
+    --fundo: #f3f5f7; --cartao: #ffffff; --texto: #1c2733; --suave: #5d6b7a; --borda: #d9dfe5;
+    --normal: #1b7f4b; --aviso: #b7791f; --alarme: #c62828; --azul: #1f5f99;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fundo); color: var(--texto); font: 15px/1.45 Arial, Helvetica, sans-serif; }
+  main { max-width: 1040px; margin: 0 auto; padding: 18px 16px 40px; }
+  h1 { font-size: 22px; margin: 0 0 2px; }
+  h2 { font-size: 16px; margin: 0 0 10px; }
+  .topo { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+  .suave { color: var(--suave); font-size: 13px; }
+  .selos { display: flex; flex-wrap: wrap; gap: 8px; }
+  .selo { background: var(--cartao); border: 1px solid var(--borda); border-radius: 14px; padding: 3px 11px; font-size: 13px; }
+  .selo b { color: var(--suave); font-weight: 400; }
+  .ligado { color: var(--normal); font-weight: 700; }
+  .desligado { color: var(--alarme); font-weight: 700; }
+  button { font: inherit; padding: 7px 13px; border: 1px solid var(--borda); border-radius: 6px; background: var(--cartao); color: var(--texto); cursor: pointer; }
+  button:hover:not(:disabled) { border-color: var(--azul); }
+  button:disabled { opacity: .5; cursor: default; }
+  .principal { background: var(--azul); color: #fff; border-color: var(--azul); }
+  .faixa { display: none; padding: 12px 16px; border-radius: 8px; margin-bottom: 14px; color: #fff; font-weight: 700; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .faixa.aviso { display: flex; background: var(--aviso); }
+  .faixa.alarme { display: flex; background: var(--alarme); }
+  .faixa button { color: var(--texto); }
+  .grade { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin-bottom: 14px; }
+  .cartao { background: var(--cartao); border: 1px solid var(--borda); border-radius: 8px; padding: 13px 15px; margin-bottom: 14px; }
+  .grade .cartao { margin-bottom: 0; border-top: 4px solid var(--borda); }
+  .valor { font-size: 38px; font-weight: 700; line-height: 1.1; }
+  .unidade { font-size: 15px; color: var(--suave); font-weight: 400; }
+  .c-normal { border-top-color: var(--normal) !important; }
+  .c-aviso { border-top-color: var(--aviso) !important; }
+  .c-alarme { border-top-color: var(--alarme) !important; }
+  canvas { width: 100%; height: 44px; display: block; margin-top: 6px; }
+  .botoes { display: flex; flex-wrap: wrap; gap: 8px; }
+  .duas { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; }
+  .rolagem { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+  th, td { border-bottom: 1px solid var(--borda); padding: 5px 8px; text-align: left; }
+  th { color: var(--suave); font-weight: 700; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  #registro { height: 190px; overflow-y: auto; font: 12px/1.45 Consolas, monospace; background: #f8f9fa; border: 1px solid var(--borda); border-radius: 6px; padding: 7px 9px; overflow-wrap: anywhere; }
+</style>
+</head>
+<body>
+<main>
+  <div class="topo">
+    <div>
+      <h1>Monitor de sinais vitais</h1>
+      <div class="suave">Painel de acompanhamento remoto por MQTT</div>
+    </div>
+    <div class="selos">
+      <span class="selo"><b>Broker</b> <span id="seloBroker" class="desligado">desconectado</span></span>
+      <span class="selo"><b>Protótipo</b> <span id="seloPlaca" class="desligado">sem resposta</span></span>
+      <span class="selo"><b>Última leitura</b> <span id="seloHora">-</span></span>
+    </div>
+  </div>
+
+  <div class="cartao" id="inicio">
+    <button class="principal" id="btIniciar">Iniciar monitoramento</button>
+    <span class="suave">O navegador só libera o alarme sonoro depois deste clique.</span>
+  </div>
+
+  <div class="faixa" id="faixa">
+    <span id="faixaTexto"></span>
+    <button id="btSilenciar">Silenciar</button>
+  </div>
+
+  <div class="grade">
+    <div class="cartao" id="cFc"><div class="suave">Frequência cardíaca</div><div class="valor"><span id="vFc">-</span> <span class="unidade">BPM</span></div><canvas id="gFc"></canvas></div>
+    <div class="cartao" id="cSpo2"><div class="suave">Saturação de oxigênio</div><div class="valor"><span id="vSpo2">-</span> <span class="unidade">%</span></div><canvas id="gSpo2"></canvas></div>
+    <div class="cartao" id="cTemp"><div class="suave">Temperatura</div><div class="valor"><span id="vTemp">-</span> <span class="unidade">°C</span></div><canvas id="gTemp"></canvas></div>
+    <div class="cartao" id="cEstado"><div class="suave">Estado do protótipo</div><div class="valor" id="vEstado" style="font-size:28px">-</div><div class="suave" id="vDedo" style="margin-top:6px"></div></div>
+  </div>
+
+  <div class="duas">
+    <div class="cartao">
+      <h2>Comando do LED da placa</h2>
+      <div class="botoes">
+        <button class="cmd" data-c="verde" disabled>Verde</button>
+        <button class="cmd" data-c="amarelo" disabled>Amarelo</button>
+        <button class="cmd" data-c="vermelho" disabled>Vermelho</button>
+        <button class="cmd" data-c="azul" disabled>Azul</button>
+        <button class="cmd" data-c="apagado" disabled>Apagar</button>
+        <button class="cmd" data-c="auto" disabled>Automático</button>
+      </div>
+      <p class="suave" id="infoCmd" style="margin:10px 0 0">O comando manual vale por 5 segundos. Depois o LED volta a seguir as leituras.</p>
+    </div>
+    <div class="cartao">
+      <h2>Medição dos tempos de resposta</h2>
+      <div class="botoes">
+        <button id="btMedir" class="principal" disabled>Medir atuador e sensores</button>
+        <button id="btCsv" disabled>Baixar CSV</button>
+      </div>
+      <p class="suave" id="infoMed" style="margin:10px 0 0">São 4 medições para o LED e 4 para cada sensor. Deixe o dedo no MAX30102 durante a medição.</p>
+    </div>
+  </div>
+
+  <div class="cartao" id="cTabela" style="display:none">
+    <h2>Tempos medidos</h2>
+    <div class="rolagem"><table>
+      <thead><tr><th>Núm. medida</th><th>Sensor/atuador</th><th class="num">Tempo de resposta (ms)</th><th class="num">Ida e volta (ms)</th></tr></thead>
+      <tbody id="corpoTabela"></tbody>
+    </table></div>
+  </div>
+
+  <div class="cartao">
+    <h2>Mensagens recebidas</h2>
+    <div id="registro"></div>
+  </div>
+</main>
+
+<script src="mqtt.min.js"></script>
+<script>
+const BROKER = "wss://broker.hivemq.com:8884/mqtt";
+const BASE = "mackenzie/oic/monitor-sinais-vitais";
+const ROTULO = { sem_leitura: "Sem leitura", normal: "Normal", aviso: "Aviso", alarme: "ALARME" };
+const CLASSE = { normal: "c-normal", aviso: "c-aviso", alarme: "c-alarme" };
+const $ = id => document.getElementById(id);
+
+let cliente = null, audio = null, intervaloSom = null, silenciado = false, estadoAtual = null;
+let idComando = 0, resultados = [], semDedo = 0;
+const aguardando = new Map();
+const series = { gFc: [], gSpo2: [], gTemp: [] };
+
+function escreveRegistro(topico, texto) {
+  const r = $("registro");
+  const linha = document.createElement("div");
+  linha.textContent = new Date().toLocaleTimeString("pt-BR") + "  " + topico.replace(BASE + "/", "") + "  " + texto;
+  r.prepend(linha);
+  while (r.childElementCount > 80) r.lastElementChild.remove();
+}
+
+function bipe() {
+  if (!audio) return;
+  const o = audio.createOscillator(), g = audio.createGain();
+  o.type = "square"; o.frequency.value = 880; g.gain.value = 0.15;
+  o.connect(g); g.connect(audio.destination);
+  o.start(); o.stop(audio.currentTime + 0.35);
+}
+function controlaSom() {
+  const tocar = estadoAtual === "alarme" && !silenciado;
+  if (tocar && !intervaloSom) { bipe(); intervaloSom = setInterval(bipe, 800); }
+  if (!tocar && intervaloSom) { clearInterval(intervaloSom); intervaloSom = null; }
+}
+
+function desenha(idCanvas) {
+  const c = $(idCanvas), d = series[idCanvas];
+  const w = c.width = c.clientWidth * devicePixelRatio, h = c.height = 44 * devicePixelRatio;
+  const ctx = c.getContext("2d");
+  ctx.clearRect(0, 0, w, h);
+  if (d.length < 2) return;
+  const min = Math.min(...d), max = Math.max(...d), amp = (max - min) || 1;
+  ctx.strokeStyle = "#1f5f99"; ctx.lineWidth = 1.6 * devicePixelRatio; ctx.beginPath();
+  d.forEach((v, i) => {
+    const x = i / 59 * w, y = h - 3 - (v - min) / amp * (h - 6);
+    i ? ctx.lineTo(x, y) : ctx.moveTo(x, y);
+  });
+  ctx.stroke();
+}
+function adiciona(idCanvas, v) {
+  if (v === null || v === undefined) return;
+  series[idCanvas].push(v);
+  if (series[idCanvas].length > 60) series[idCanvas].shift();
+  desenha(idCanvas);
+}
+
+function aplicaEstado(estado, detalhe) {
+  const mudou = estado !== estadoAtual;
+  estadoAtual = estado;
+  if (mudou) silenciado = false;
+  $("vEstado").textContent = ROTULO[estado] || estado;
+  $("cEstado").className = "cartao " + (CLASSE[estado] || "");
+  const f = $("faixa");
+  f.className = "faixa " + (estado === "alarme" ? "alarme" : estado === "aviso" ? "aviso" : "");
+  if (estado === "alarme") $("faixaTexto").textContent = "ALARME: " + (detalhe || "sinal vital na faixa de alarme");
+  if (estado === "aviso") $("faixaTexto").textContent = "Aviso: " + (detalhe || "sinal vital fora da faixa normal");
+  $("btSilenciar").style.display = estado === "alarme" ? "" : "none";
+  controlaSom();
+}
+
+function sinaisForaDaFaixa(m) {
+  const nomes = [];
+  if (m.fc === "alarme" || m.fc === "aviso") nomes.push("frequência cardíaca" + (m.bpm !== null ? " " + m.bpm + " BPM" : ""));
+  if (m.spo2 === "alarme" || m.spo2 === "aviso") nomes.push("saturação" + (m.spo2_valor !== null ? " " + m.spo2_valor + "%" : ""));
+  if (m.temp === "alarme" || m.temp === "aviso") nomes.push("temperatura" + (m.temp_valor !== null ? " " + m.temp_valor.toFixed(1) + " °C" : ""));
+  return nomes.join(", ");
+}
+
+function trataLeituras(m) {
+  $("vFc").textContent = m.bpm ?? "-";
+  $("vSpo2").textContent = m.spo2 ?? "-";
+  $("vTemp").textContent = m.temp !== null ? m.temp.toFixed(1) : "-";
+  $("vDedo").textContent = m.dedo ? "Dedo no sensor" : "Sem dedo no sensor";
+  $("seloHora").textContent = new Date().toLocaleTimeString("pt-BR");
+  adiciona("gFc", m.bpm); adiciona("gSpo2", m.spo2); adiciona("gTemp", m.temp);
+  if (m.estado !== estadoAtual) aplicaEstado(m.estado);
+}
+
+function trataAlerta(m) {
+  aplicaEstado(m.estado, sinaisForaDaFaixa(m));
+  const cartoes = { cFc: m.fc, cSpo2: m.spo2, cTemp: m.temp };
+  for (const id in cartoes) $(id).className = "cartao " + (CLASSE[cartoes[id]] || "");
+}
+
+function trataConfirmacao(m) {
+  const pendente = aguardando.get(m.id);
+  if (!pendente) return;
+  const idaVolta = performance.now() - pendente.t0;
+  aguardando.delete(m.id);
+  pendente.fim({ idaVolta, led_us: m.led_us, valido: m.valido });
+}
+
+function trataResultadoSensor(m) {
+  const nome = m.sensor === "max30102" ? "Sensor MAX30102" : "Sensor MLX90614";
+  if (m.sensor === "max30102" && !m.dedo) semDedo++;
+  acrescentaResultado(m.n, nome, m.tempo_ms, m.ida_volta_ms);
+}
+
+function enviaComando(acao) {
+  return new Promise((resolve, reject) => {
+    const id = String(++idComando) + "-" + Date.now();
+    const espera = setTimeout(() => { aguardando.delete(id); reject(new Error("sem confirmação")); }, 5000);
+    aguardando.set(id, { t0: performance.now(), fim: r => { clearTimeout(espera); resolve(r); } });
+    cliente.publish(BASE + "/comando", id + ";" + acao, { qos: 1 });
+    escreveRegistro(BASE + "/comando", "enviado " + id + ";" + acao);
+  });
+}
+
+function acrescentaResultado(n, nome, tempo, idaVolta) {
+  resultados.push({ n, nome, tempo, idaVolta });
+  $("cTabela").style.display = "";
+  const tr = document.createElement("tr");
+  tr.innerHTML = "<td>" + n + "</td><td>" + nome + "</td><td class='num'>" + tempo.toFixed(1) + "</td><td class='num'>" + idaVolta.toFixed(1) + "</td>";
+  $("corpoTabela").append(tr);
+}
+
+function mostraMedias() {
+  for (const nome of ["Atuador LED RGB", "Sensor MAX30102", "Sensor MLX90614"]) {
+    const v = resultados.filter(r => r.nome === nome);
+    if (!v.length) continue;
+    const m = v.reduce((s, r) => s + r.tempo, 0) / v.length;
+    const mi = v.reduce((s, r) => s + r.idaVolta, 0) / v.length;
+    const tr = document.createElement("tr");
+    tr.innerHTML = "<td><b>Média</b></td><td><b>" + nome + "</b></td><td class='num'><b>" + m.toFixed(1) + "</b></td><td class='num'><b>" + mi.toFixed(1) + "</b></td>";
+    $("corpoTabela").append(tr);
+  }
+}
+
+const espera = ms => new Promise(r => setTimeout(r, ms));
+
+async function medir() {
+  resultados = [];
+  semDedo = 0;
+  $("corpoTabela").innerHTML = "";
+  $("btMedir").disabled = true; $("btCsv").disabled = true;
+  const cores = ["vermelho", "verde", "azul", "amarelo"];
+  try {
+    for (let i = 0; i < 4; i++) {
+      $("infoMed").textContent = "Medindo o LED, comando " + (i + 1) + " de 4...";
+      const r = await enviaComando(cores[i]);
+      acrescentaResultado(i + 1, "Atuador LED RGB", r.idaVolta / 2, r.idaVolta);
+      await espera(2000);
+    }
+    await enviaComando("auto");
+    $("infoMed").textContent = "Medindo os sensores...";
+    const antes = resultados.length;
+    await enviaComando("medir");
+    const limite = performance.now() + 20000;
+    while (resultados.length < antes + 8 && performance.now() < limite) await espera(200);
+    mostraMedias();
+    const aviso = semDedo ? " Atenção: em " + semDedo + " medição(ões) do MAX30102 não havia dedo no sensor." : "";
+    $("infoMed").textContent = (resultados.length === antes + 8 ? "Medição concluída." : "Medição incompleta: faltaram respostas dos sensores.") + aviso;
+    $("btCsv").disabled = false;
+  } catch (e) {
+    $("infoMed").textContent = "Falha na medição: " + e.message + ".";
+  }
+  $("btMedir").disabled = false;
+}
+
+function baixaCsv() {
+  const linhas = ["medida;sensor_atuador;tempo_resposta_ms;ida_volta_ms"];
+  for (const r of resultados) linhas.push([r.n, r.nome, r.tempo.toFixed(2), r.idaVolta.toFixed(2)].join(";"));
+  const url = URL.createObjectURL(new Blob([linhas.join("\n") + "\n"], { type: "text/csv" }));
+  const a = document.createElement("a");
+  a.href = url; a.download = "tempos_resposta_" + new Date().toISOString().slice(0, 16).replace(/[:T]/g, "-") + ".csv";
+  a.click(); URL.revokeObjectURL(url);
+}
+
+function habilita(sim) {
+  document.querySelectorAll(".cmd").forEach(b => b.disabled = !sim);
+  $("btMedir").disabled = !sim;
+}
+
+function iniciar() {
+  audio = new (window.AudioContext || window.webkitAudioContext)();
+  audio.resume();
+  $("inicio").style.display = "none";
+  cliente = mqtt.connect(BROKER, { clientId: "oic-painel-" + Math.random().toString(16).slice(2, 10), reconnectPeriod: 3000, clean: true });
+  cliente.on("connect", () => {
+    $("seloBroker").textContent = "conectado"; $("seloBroker").className = "ligado";
+    cliente.subscribe(["leituras", "alerta", "status", "confirmacao", "medicao_resultado"].map(t => BASE + "/" + t), { qos: 1 });
+    habilita(true);
+  });
+  cliente.on("close", () => {
+    $("seloBroker").textContent = "desconectado"; $("seloBroker").className = "desligado";
+    habilita(false);
+  });
+  cliente.on("message", (topico, corpo) => {
+    const texto = corpo.toString();
+    escreveRegistro(topico, texto);
+    if (topico === BASE + "/status") {
+      const on = texto === "online";
+      $("seloPlaca").textContent = on ? "online" : "offline";
+      $("seloPlaca").className = on ? "ligado" : "desligado";
+      return;
+    }
+    let m;
+    try { m = JSON.parse(texto); } catch { return; }
+    if (topico === BASE + "/leituras") trataLeituras(m);
+    else if (topico === BASE + "/alerta") trataAlerta(m);
+    else if (topico === BASE + "/confirmacao") trataConfirmacao(m);
+    else if (topico === BASE + "/medicao_resultado") trataResultadoSensor(m);
+  });
+}
+
+$("btIniciar").onclick = iniciar;
+$("btMedir").onclick = medir;
+$("btCsv").onclick = baixaCsv;
+$("btSilenciar").onclick = () => { silenciado = true; controlaSom(); };
+document.querySelectorAll(".cmd").forEach(b => b.onclick = async () => {
+  const acao = b.dataset.c;
+  try {
+    const r = await enviaComando(acao);
+    $("infoCmd").textContent = "Comando \"" + b.textContent + "\" confirmado pela placa em " + r.idaVolta.toFixed(0) + " ms (ida e volta).";
+  } catch (e) { $("infoCmd").textContent = "A placa não confirmou o comando."; }
+});
+</script>
+</body>
+</html>

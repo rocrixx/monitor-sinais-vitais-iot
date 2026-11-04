@@ -1,0 +1,588 @@
+﻿Ciclo: 1000 ms | IR: 1177 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1178 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1173 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 1179 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1177 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1173 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.99 C | Temp: 28.64 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 1172 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1175 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1172 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.99 C | Temp: 28.64 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 1176 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1168 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1176 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.03 C | Temp: 28.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 880 ms | IR: 1173 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.09 C | Temp: 28.74 C | Estado: sem leitura | MQTT: on
+Ciclo: 921 ms | IR: 1173 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.09 C | Temp: 28.74 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1202 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.09 C | Temp: 28.74 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1012 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.05 C | Temp: 28.70 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.09 C | Temp: 28.74 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.09 C | Temp: 28.74 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.15 C | Temp: 28.80 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 447 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.15 C | Temp: 28.80 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.21 C | Temp: 28.86 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.25 C | Temp: 28.90 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.03 C | Temp: 33.68 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.01 C | Temp: 35.66 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.23 C | Temp: 35.88 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.23 C | Temp: 35.88 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.23 C | Temp: 35.88 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.23 C | Temp: 35.88 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.23 C | Temp: 35.88 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.53 C | Temp: 36.18 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.53 C | Temp: 36.18 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.53 C | Temp: 36.18 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.37 C | Temp: 36.02 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.61 C | Temp: 35.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.07 C | Temp: 34.72 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.75 C | Temp: 34.40 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.05 C | Temp: 34.70 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.05 C | Temp: 34.70 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 445 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.95 C | Temp: 34.60 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.75 C | Temp: 34.40 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.53 C | Temp: 34.18 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.09 C | Temp: 30.74 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.09 C | Temp: 30.74 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.09 C | Temp: 30.74 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.29 C | Temp: 31.94 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 448 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.87 C | Temp: 32.52 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.99 C | Temp: 33.64 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.67 C | Temp: 34.32 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 445 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.75 C | Temp: 34.40 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 427 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.85 C | Temp: 34.50 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.05 C | Temp: 34.70 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.05 C | Temp: 34.70 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.99 C | Temp: 34.64 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.99 C | Temp: 34.64 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.99 C | Temp: 34.64 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.95 C | Temp: 34.60 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.95 C | Temp: 34.60 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 445 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.95 C | Temp: 34.60 C | Estado: ALARME | MQTT: on
+
+>>> t
+Comandos: t <temperatura do termometro>, correcao <valor>, status, apagar
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.89 C | Temp: 34.54 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.89 C | Temp: 34.54 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.63 C | Temp: 34.28 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.61 C | Temp: 34.26 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.31 C | Temp: 33.96 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.91 C | Temp: 33.56 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.89 C | Temp: 33.54 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.89 C | Temp: 33.54 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.91 C | Temp: 33.56 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.91 C | Temp: 33.56 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.91 C | Temp: 33.56 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.13 C | Temp: 33.78 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.17 C | Temp: 33.82 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.27 C | Temp: 33.92 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.39 C | Temp: 34.04 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 448 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.41 C | Temp: 34.06 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.39 C | Temp: 34.04 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.27 C | Temp: 33.92 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.25 C | Temp: 33.90 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.21 C | Temp: 33.86 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.91 C | Temp: 33.56 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.91 C | Temp: 33.56 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.49 C | Temp: 33.14 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.99 C | Temp: 30.64 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.99 C | Temp: 30.64 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.99 C | Temp: 30.64 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.03 C | Temp: 30.68 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.79 C | Temp: 31.44 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.97 C | Temp: 32.62 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.01 C | Temp: 32.66 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.01 C | Temp: 32.66 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.97 C | Temp: 32.62 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.97 C | Temp: 32.62 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.91 C | Temp: 32.56 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 452 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.25 C | Temp: 31.90 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.15 C | Temp: 30.80 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.15 C | Temp: 30.80 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 29.15 C | Temp: 30.80 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.01 C | Temp: 36.66 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.09 C | Temp: 36.74 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.27 C | Temp: 36.92 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.27 C | Temp: 36.92 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.15 C | Temp: 36.80 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.09 C | Temp: 36.74 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.93 C | Temp: 36.58 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 429 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.91 C | Temp: 36.56 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.91 C | Temp: 36.56 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.91 C | Temp: 36.56 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.91 C | Temp: 36.56 C | Estado: normal | MQTT: on
+
+>>> t
+Comandos: t <temperatura do termometro>, correcao <valor>, status, apagar
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.07 C | Temp: 36.72 C | Estado: normal | MQTT: on
+
+>>> t
+Comandos: t <temperatura do termometro>, correcao <valor>, status, apagar
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.99 C | Temp: 36.64 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 445 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 450 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.03 C | Temp: 35.68 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.35 C | Temp: 35.00 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.65 C | Temp: 30.30 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.57 C | Temp: 30.22 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.39 C | Temp: 30.04 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.39 C | Temp: 30.04 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.33 C | Temp: 29.98 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.39 C | Temp: 30.04 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.39 C | Temp: 30.04 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.43 C | Temp: 30.08 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.43 C | Temp: 30.08 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.43 C | Temp: 30.08 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 552 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.43 C | Temp: 30.08 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 663 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.43 C | Temp: 30.08 C | Estado: ALARME | MQTT: on
+Ciclo: 960 ms | IR: 829 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.37 C | Temp: 29.02 C | Estado: sem leitura | MQTT: on
+Ciclo: 880 ms | IR: 866 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.93 C | Temp: 28.58 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 890 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.83 C | Temp: 28.48 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 908 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.77 C | Temp: 28.42 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 926 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.73 C | Temp: 28.38 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 924 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.73 C | Temp: 28.38 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 955 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.73 C | Temp: 28.38 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 965 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.77 C | Temp: 28.42 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 972 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.85 C | Temp: 28.50 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1008 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.97 C | Temp: 28.62 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1034 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.97 C | Temp: 28.62 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 1047 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.97 C | Temp: 28.62 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1067 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.97 C | Temp: 28.62 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1084 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.85 C | Temp: 28.50 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 1109 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.77 C | Temp: 28.42 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 2259 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.77 C | Temp: 28.42 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.77 C | Temp: 28.42 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.93 C | Temp: 28.58 C | Estado: sem leitura | MQTT: on
+Ciclo: 999 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 26.97 C | Temp: 28.62 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.45 C | Temp: 34.10 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.71 C | Temp: 34.36 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.95 C | Temp: 34.60 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.85 C | Temp: 35.50 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.85 C | Temp: 35.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.77 C | Temp: 35.42 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.77 C | Temp: 35.42 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.77 C | Temp: 35.42 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.79 C | Temp: 35.44 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 447 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.83 C | Temp: 35.48 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.03 C | Temp: 35.68 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.07 C | Temp: 35.72 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 429 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.37 C | Temp: 36.02 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Par 1 de 5: termometro 36.50 C, GY-906 34.47 C, diferenca 2.03 C, ambiente 29.5 C
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.53 C | Temp: 36.18 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.53 C | Temp: 36.18 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.15 C | Temp: 36.80 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.15 C | Temp: 36.80 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 445 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.15 C | Temp: 36.80 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 446 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 428 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Par 2 de 5: termometro 36.50 C, GY-906 34.59 C, diferenca 1.91 C, ambiente 29.8 C
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.99 C | Temp: 36.64 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.99 C | Temp: 36.64 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.99 C | Temp: 36.64 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.99 C | Temp: 36.64 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 426 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1001 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Par 3 de 5: termometro 36.50 C, GY-906 34.61 C, diferenca 1.89 C, ambiente 30.4 C
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.15 C | Temp: 36.80 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.19 C | Temp: 36.84 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.19 C | Temp: 36.84 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.19 C | Temp: 36.84 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.23 C | Temp: 36.88 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.23 C | Temp: 36.88 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.83 C | Temp: 36.48 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.13 C | Temp: 33.78 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.33 C | Temp: 31.98 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.33 C | Temp: 31.98 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.33 C | Temp: 31.98 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.33 C | Temp: 31.98 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.33 C | Temp: 31.98 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 445 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.03 C | Temp: 31.68 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.03 C | Temp: 31.68 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 451 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.03 C | Temp: 31.68 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.29 C | Temp: 32.94 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.29 C | Temp: 32.94 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.67 C | Temp: 34.32 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.97 C | Temp: 34.62 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.63 C | Temp: 35.28 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.73 C | Temp: 35.38 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.95 C | Temp: 35.60 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.95 C | Temp: 35.60 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.01 C | Temp: 35.66 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.07 C | Temp: 35.72 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 427 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.07 C | Temp: 35.72 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.07 C | Temp: 35.72 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 430 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.99 C | Temp: 35.64 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.99 C | Temp: 35.64 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.99 C | Temp: 35.64 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.03 C | Temp: 35.68 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.03 C | Temp: 35.68 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1001 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.03 C | Temp: 35.68 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.85 C | Temp: 35.50 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.85 C | Temp: 35.50 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.79 C | Temp: 35.44 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 430 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.79 C | Temp: 35.44 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.87 C | Temp: 35.52 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.15 C | Temp: 35.80 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.31 C | Temp: 35.96 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.17 C | Temp: 35.82 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Par 4 de 5: termometro 36.50 C, GY-906 34.43 C, diferenca 2.07 C, ambiente 31.5 C
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.07 C | Temp: 36.72 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.07 C | Temp: 36.72 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.97 C | Temp: 36.62 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.81 C | Temp: 36.46 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.37 C | Temp: 36.02 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.37 C | Temp: 36.02 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.37 C | Temp: 36.02 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.67 C | Temp: 36.32 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.91 C | Temp: 35.56 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.91 C | Temp: 35.56 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.83 C | Temp: 35.48 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.91 C | Temp: 35.56 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.09 C | Temp: 35.74 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.31 C | Temp: 35.96 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 28.95 C | Temp: 30.60 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 25.87 C | Temp: 27.52 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 25.87 C | Temp: 27.52 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 25.87 C | Temp: 27.52 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 30.31 C | Temp: 31.96 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 33.79 C | Temp: 35.44 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1001 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.39 C | Temp: 36.04 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.33 C | Temp: 35.98 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.21 C | Temp: 35.86 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.21 C | Temp: 35.86 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.21 C | Temp: 35.86 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.31 C | Temp: 35.96 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 430 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.51 C | Temp: 36.16 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.55 C | Temp: 36.20 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.59 C | Temp: 36.24 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.61 C | Temp: 36.26 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 434 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.45 C | Temp: 36.10 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.29 C | Temp: 35.94 C | Estado: AVISO | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.43 C | Temp: 36.08 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 442 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.25 C | Temp: 35.90 C | Estado: AVISO | MQTT: on
+Ciclo: 1001 ms | IR: 441 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.47 C | Temp: 36.12 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 443 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: AVISO | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.89 C | Temp: 36.54 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.01 C | Temp: 36.66 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 429 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.01 C | Temp: 36.66 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.99 C | Temp: 36.64 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.99 C | Temp: 36.64 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Leitura do GY-906 ainda variando. Mantenha a testa parada e tente de novo.
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.07 C | Temp: 36.72 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.21 C | Temp: 36.86 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.21 C | Temp: 36.86 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.23 C | Temp: 36.88 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 431 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.23 C | Temp: 36.88 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 435 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.23 C | Temp: 36.88 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 430 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 35.13 C | Temp: 36.78 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.85 C | Temp: 36.50 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.77 C | Temp: 36.42 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 430 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 430 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 432 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 436 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.69 C | Temp: 36.34 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.63 C | Temp: 36.28 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.40 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 433 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.36 C | Estado: normal | MQTT: on
+
+>>> t 36.5
+Par 5 de 5: termometro 36.50 C, GY-906 34.71 C, diferenca 1.79 C, ambiente 31.2 C
+Calibracao salva: correcao = 1.94 C (desvio padrao das diferencas = 0.11 C)
+Ciclo: 1001 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.69 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 437 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.69 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.75 C | Temp: 36.69 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 34.71 C | Temp: 36.65 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 440 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.33 C | Temp: 33.27 C | Estado: normal | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.33 C | Temp: 33.27 C | Estado: normal | MQTT: on
+Ciclo: 1000 ms | IR: 444 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 31.33 C | Temp: 33.27 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.27 C | Temp: 34.21 C | Estado: ALARME | MQTT: on
+Ciclo: 1001 ms | IR: 438 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.27 C | Temp: 34.21 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 430 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 32.27 C | Temp: 34.21 C | Estado: ALARME | MQTT: on
+Ciclo: 1000 ms | IR: 439 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.59 C | Temp: 29.53 C | Estado: sem leitura | MQTT: on
+Ciclo: 1001 ms | IR: 449 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.59 C | Temp: 29.53 C | Estado: sem leitura | MQTT: on
+Ciclo: 1000 ms | IR: 668 | BPM bruto: 0 (correlacao 0.00, Maxim 0) | BPM: 0 | SpO2 bruto: 0 | SpO2: 0 | Pele: 27.49 C | Temp: 29.43 C | Estado: sem leitura | MQTT: on
