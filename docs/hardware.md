@@ -11,6 +11,10 @@
 | Jumpers fêmea-fêmea | 12 | Ligação de cada pino, sem protoboard | |
 | Cabo USB-C | 1 | Alimentação de 5 V e gravação | |
 
+## Peças mecânicas
+
+O protótipo não usa caixa, invólucro nem peças impressas em 3D. Os módulos ficam soltos, presos à placa apenas pelos jumpers, e a placa é alimentada pelo cabo USB-C. As dimensões de cada módulo são as do fabricante, indicadas nos datasheets citados no artigo.
+
 ## Atuador
 
 O atuador é o LED RGB endereçável da própria placa, no GPIO48. Em algumas revisões da DevKitC-1 ele fica no GPIO38. O firmware usa a constante `LED`, e a placa usada neste projeto foi confirmada no GPIO48 com um teste de pisca.
