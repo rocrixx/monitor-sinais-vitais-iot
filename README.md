@@ -6,7 +6,7 @@ Uma placa ESP32-S3 lê a frequência cardíaca e a saturação de oxigênio com 
 
 > Este é um protótipo acadêmico e não é um equipamento médico. Ele usa um broker público, sem autenticação, e por isso não deve receber dados reais de pacientes.
 
-Vídeo de demonstração: https://youtu.be/typMFYeEOXU
+Vídeo de demonstração: https://youtu.be/b_4kLTdiKcc
 
 ![Arquitetura do protótipo](docs/img/arquitetura.png)
 

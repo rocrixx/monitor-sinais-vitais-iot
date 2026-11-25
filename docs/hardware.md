@@ -13,7 +13,7 @@
 
 ## Peças mecânicas
 
-O protótipo não usa caixa, invólucro nem peças impressas em 3D. Os módulos ficam soltos, presos à placa apenas pelos jumpers, e a placa é alimentada pelo cabo USB-C. As dimensões de cada módulo são as do fabricante, indicadas nos datasheets citados no artigo.
+O protótipo não usa caixa, invólucro nem peças impressas em 3D. Os módulos ficam soltos, presos à placa apenas pelos jumpers, e a placa é alimentada pelo cabo USB-C.
 
 ## Atuador
 
